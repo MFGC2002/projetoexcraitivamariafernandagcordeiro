@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F0FFF0;
+}
+.centraliza-container{
+    margin: auto;
+}
+div{
+    width: 85%;
+    background-color: F5E1E4;
+    padding: 3em;
+    box-shadow: 0 0 2.2em rgba(0,0,0, .2);
+}
+header{
+    text-align: center;
+}
+header li{
+    list-style-type: none;
+}
+
+main{
+    margin-top: 4em;
+}
